@@ -1,0 +1,1 @@
+A browser extension to encrypt and decrypt messages on client side.
